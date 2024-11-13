@@ -1,1 +1,1 @@
-# node-training
+# Training Repo for Node.js
